@@ -5,6 +5,7 @@
 
 #### Statistical data
 ![](https://github-readme-stats.vercel.app/api?username=cngege&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=8e8cd8)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cngege&layout=compact&title_color=FFFFFF&text_color=FFFFFF&bg_color=8e8cd8)
 
 #### Visitors (Since 2022/6/1)
