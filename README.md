@@ -1,17 +1,26 @@
-![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=CNGEGE&fontSize=60)
+![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=MuZiLi&fontSize=60)
 
-### 👋 Hi there 👋
+### 👋 你好 世界 👋
 ---
 
-#### 🎉 Statistical data 🎉
+#### 🎉 统计数据 🎉
 ![](https://github-readme-stats.vercel.app/api?username=cngege&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=8e8cd8)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cngege&layout=compact&title_color=FFFFFF&text_color=FFFFFF&bg_color=8e8cd8)
 
-#### 🎄 Visitors (Since 2022/6/1) 🎄
+#### 🎄 访客 (2022/6/1 号开始) 🎄
 ![](https://count.getloli.com/get/@cngege?theme=rule34)
 
-#### 👨🏿‍🤝‍👨🏿 Me and Friends 👨🏿‍🤝‍👨🏿
+#### ✨ 关于我 ✨
+- 🎾 东方Project爱好者
+- 🎮 MINECRAFT爱好者
+- 👒 时光机器爱好者
+- ⚽ 无线远控爱好者
+- 🧿 无人机爱好者
+- 🧩 电子电路爱好者
+- 🏴 大秦爱好者
+ 
+#### 👨🏿‍🤝‍👨🏿 我和我的朋友们 👨🏿‍🤝‍👨🏿
 
 <table>
 <tr>
